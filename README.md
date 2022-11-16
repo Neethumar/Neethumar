@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Neethu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neethu-maria-tom-a6b499215/)](https://www.linkedin.com/in/Neethu--a6b499215/)
+[![Linkedin Badge](https://img.shields.io/badge/-Neethu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neethu-maria-tom-a6b499215/)](https://www.linkedin.com/in/neethu-maria-tom-a6b499215/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Neethu-green)](https://www.Neethu)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Neethu-yellow)](https://stackoverflow.com/users/18426361/neethu)
 
@@ -58,10 +58,10 @@ Languages and Tools:
         <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="selenium" width="40" height="40" />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=Neethumar&theme=react-dark&area=true)
+
 <!--
 **Neethumar/Neethumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://activity-graph.herokuapp.com/graph?username=Neethumar&theme=react-dark&area=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
