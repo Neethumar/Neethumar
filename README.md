@@ -5,8 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Neethu-yellow)](https://stackoverflow.com/users/18426361/neethu)
 
 I'm
-An aspiring MERN stack developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, express), design (working closely with designers), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), System Administrator,database(MongoDB)
+Devops engineer
+The crossover between operations and development has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of applications. I have a wide range of skills that include Linux,python,aws,docker,kubernetes,ansible,terraform
 
 
 <div>
