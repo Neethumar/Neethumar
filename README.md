@@ -1,11 +1,11 @@
-### Hi Developers 👋
+### Hi Fellows 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Neethu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neethu-maria-tom-a6b499215/)](https://www.linkedin.com/in/neethu-maria-tom-a6b499215/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Neethu-green)](https://www.Neethu)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Neethu-yellow)](https://stackoverflow.com/users/18426361/neethu)
 
 I'm
-Devops engineer
+a passionate Devops engineer
 The crossover between operations and development has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of applications. I have a wide range of skills that include Linux,python,aws,docker,kubernetes,ansible,terraform
 
 
@@ -18,6 +18,28 @@ The crossover between operations and development has always been of interest to 
 
 Languages and Tools: 
 
+  <div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
+  <img width="12" />
+</div>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
     </a>
@@ -57,6 +79,7 @@ Languages and Tools:
     <a href="https://tailwindui.com/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" alt="selenium" width="40" height="40" />
     </a>
+
 
 
 <!--
